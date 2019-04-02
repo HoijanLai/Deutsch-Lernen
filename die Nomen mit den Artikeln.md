@@ -30,7 +30,7 @@
     
 
 
-# ![](./Männlich.png) 34%
+# ![](./Mānnlich.png) 34%
 
 ## ✏️immer!
 * __-ant__
