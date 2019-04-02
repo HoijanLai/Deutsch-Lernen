@@ -1,7 +1,7 @@
 # Kleine Regeln
 
 
-### Weiblich 46%
+### ![](./Weiblich.png) 46%
 
 #### ✏️immer!
  * __-ei__
@@ -32,7 +32,7 @@
     
 
 
-### Männlich 34%
+### ![](./Männlich.png) 34%
 
 #### ✏️immer!
 * __-ant__
@@ -63,7 +63,7 @@
     * ⚠️ das Bier
 
 
-### Neutral 20%
+### ![](./Neutral.png) 20%
 #### ✏️immer!
 * __-chen__
 * __-lein__
