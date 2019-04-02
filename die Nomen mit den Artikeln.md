@@ -1,9 +1,7 @@
-# Kleine Regeln
 
+# ![](./Weiblich.png) 46%
 
-### ![](./Weiblich.png) 46%
-
-#### ✏️immer!
+## ✏️immer!
  * __-ei__
     * Datei, Bäckerei, Polizei
  * __-anz__ 
@@ -32,9 +30,9 @@
     
 
 
-### ![](./Männlich.png) 34%
+# ![](./Männlich.png) 34%
 
-#### ✏️immer!
+## ✏️immer!
 * __-ant__
     * Lieferant, Mandant, Migrant
 * __-ent__
@@ -52,7 +50,7 @@
 * Tage und Monate
 * Himmelsrichtungen
     
-#### ✏️meisten ...
+## ✏️meisten ...
 * __-er__
     * Lehrer, Fahrer
     * _⚠️ die Butter_
@@ -63,8 +61,8 @@
     * ⚠️ das Bier
 
 
-### ![](./Neutral.png) 20%
-#### ✏️immer!
+# ![](./Neutral.png) 20%
+## ✏️immer!
 * __-chen__
 * __-lein__
 * __-ment__
@@ -73,7 +71,7 @@
     * Datum, Publikum, Universum
 * substantivierte Verben
       
-#### ✏️meisten ...
+## ✏️meisten ...
 * __-tum__
     * Christenum, Eigentum, Neutrum
 * __-ma__
